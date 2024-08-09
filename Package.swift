@@ -27,11 +27,11 @@ let package = Package(
         .binaryTarget(
             name: "Cjq",
             url: "https://github.com/Sameesunkaria/JQ-Darwin/releases/download/2.0.0/Cjq.xcframework.zip",
-            checksum: "a5f34778888d39651396ffa18456be6f9a4e4482"),
+            checksum: "468fd3455df87118741760c1144dfc3258dc025c649e9340c72d6f77383d346c"),
         .binaryTarget(
             name: "Coniguruma",
             url: "https://github.com/Sameesunkaria/JQ-Darwin/releases/download/2.0.0/Coniguruma.xcframework.zip",
-            checksum: "83cbe07fa3e0869702723007668565a5304cb88c"),
+            checksum: "5e093ab28cc2e11847f6091fe5a9f05c58c87c701602a8e7f87ae40fdc5c2fd9"),
     ]
 )
 
